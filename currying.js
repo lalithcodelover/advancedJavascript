@@ -22,8 +22,9 @@ let multiply = function(x) {
     }
 }
 
-let multiplyByTwo = multiply(2)
-multiplyByTwo(5)
+// let multiplyByTwo = multiply(2)
+// multiplyByTwo(5)
 
-let multiplyByThree = multiply(3)
-multiplyByThree(15)
+// let multiplyByThree = multiply(3)
+// multiplyByThree(15)
+multiply(2)(5)
